@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import Fanta1 from "../assets/Fanta1.png";
-import Fanta2 from "../assets/Fanta2.png";
-import Fanta3 from "../assets/Fanta3.png";
+import Fanta1 from "../assets/fanta1.png";
+import Fanta2 from "../assets/fanta2.png";
+import Fanta3 from "../assets/fanta3.png";
 import { FaWhatsapp } from "react-icons/fa";
 import Navbar from "./Navbar";
 import { motion, AnimatePresence, easeInOut } from "framer-motion";
